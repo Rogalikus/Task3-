@@ -1,0 +1,16 @@
+.wrapper {
+  margin: auto;
+}
+
+.wrapper .column1 {
+  width: 100px;
+}
+.wrapper .column2 {
+  width: 300px;
+}
+.column3 {
+  width: 400px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
